@@ -21,6 +21,6 @@
   "devDependencies": {
     "@types/follow-redirects": "^1.14.4",
     "typescript": "^5.0.0",
-    "vitest": "^3.2.0"
+    "vitest": "^4.0.9"
   }
 }
